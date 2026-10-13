@@ -1,0 +1,5 @@
+streamlit
+faster-whisper
+transformers
+torch
+av>=11,<19
